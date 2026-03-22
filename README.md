@@ -23,8 +23,7 @@ This project detects sugarcane leaf diseases using deep learning and explains it
 
 ## Results
 
-* Accuracy: XX%
-* Loss: XX
+* Accuracy: 70%
 
 ## Explainability
 
